@@ -1,0 +1,110 @@
+{
+    "name": "CrossBrowserTesting",
+    "description": "Browser Testing made simple! Run automated, visual, and manual tests on 1500+ real browsers and mobile devices. Test more browsers, in less time.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1043-crossbrowsertesting.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "browser testing",
+        "have api",
+        "have swagger",
+        "performance",
+        "projects",
+        "testing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/crossbrowsertesting\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Crossbrowsertesting.com Screenshot Comparisons",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1043-crossbrowsertesting.jpg",
+            "humanURL": "http:\/\/crossbrowsertesting.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/crossbrowsertesting-com-screenshot-comparisons.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/crossbrowsertesting-com-screenshot-comparisons-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/crossbrowsertesting-com-screenshot-comparisons-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/crossbrowsertesting.com\/blog"
+        },
+        {
+            "type": "Base",
+            "url": "http:\/\/crossbrowsertesting.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/crossbrowsertesting.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/crossbrowsertesting.com\/blog\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/crossbrowsertesting-com"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/crossbrowsertesting.com\/apidocs"
+        },
+        {
+            "type": "Email",
+            "url": "support@crossbrowsertesting.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@crossbrowsertesting.com"
+        },
+        {
+            "type": "Email",
+            "url": "billing@crossbrowsertesting.com"
+        },
+        {
+            "type": "Email",
+            "url": "security@crossbrowsertesting.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@crossbrowsertesting.com"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/1043-2019-09-04-03-42-54.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/1043-2019-09-03-16-20-04.json"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/1043-2019-09-03-16-37-40.json"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/xbrowsertesting"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/crossbrowsertesting.com"
+        }
+    ]
+}
