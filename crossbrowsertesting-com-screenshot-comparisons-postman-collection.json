@@ -1,5 +1,5 @@
 {
-    "id": "65ed43c56f5b6edc2f437ac60889a055",
+    "id": "27477cf596dffa49641640acd36e9d50",
     "name": "Crossbrowsertesting.com Screenshot Comparisons",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "5efd2825d658843c2694522426e22d7a",
+            "id": "ca8d33fcf66e2ecd890abc2a071ff89e",
             "name": "Compare Screenshot Test Versions",
             "url": "http:\/\/crossbrowsertesting.com\/api\/v3\/screenshots\/{target_screenshot_test_id}\/{target_version_id}\/comparison\/parallel\/{base_version_id}",
             "description": "Get comparison results for all browsers in target screenshot test against the same browser in the base screenshot test. This is a good method for regression testing. For example, you've run a screenshot test against a set of browsers that is \"good\". Then, after some changes, you run a new screenshot test against the same set of browsers. This method will compare each of the same browsers against each other. For example, IE9 will be compared to IE9 from an earlier test. This is a many-to-many com",
@@ -72,11 +72,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "65ed43c56f5b6edc2f437ac60889a055",
+            "collectionId": "27477cf596dffa49641640acd36e9d50",
             "rawModeData": ""
         },
         {
-            "id": "fa97f782a1f583aec8f0a474a827145c",
+            "id": "84011a12315ea4419f9177325c39fb25",
             "name": "Compare Full Screenshot Test",
             "url": "http:\/\/crossbrowsertesting.com\/api\/v3\/screenshots\/{target_screenshot_test_id}\/{target_version_id}\/comparison\/{base_result_id}",
             "description": "Get comparison results for all browsers in target screenshot test against a base screenshot result. The base result can be from the same test or from another test run at an earlier time. This is a one-to-many comparison.",
@@ -138,11 +138,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "65ed43c56f5b6edc2f437ac60889a055",
+            "collectionId": "27477cf596dffa49641640acd36e9d50",
             "rawModeData": ""
         },
         {
-            "id": "033044bbf25c8ba12add0ee8d5c21b67",
+            "id": "7822a22a9c2d0214bd2852d81da48f42",
             "name": "Compare Single Screenshot",
             "url": "http:\/\/crossbrowsertesting.com\/api\/v3\/screenshots\/{target_screenshot_test_id}\/{target_version_id}\/{target_result_id}\/comparison\/{base_result_id}",
             "description": "Get comparison results for a single target screenshot result against a base screenshot result. This is a one-to-one comparison.",
@@ -211,7 +211,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "65ed43c56f5b6edc2f437ac60889a055",
+            "collectionId": "27477cf596dffa49641640acd36e9d50",
             "rawModeData": ""
         }
     ]
